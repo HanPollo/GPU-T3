@@ -6,7 +6,7 @@ add_definitions(-D_USE_MATH_DEFINES)
 set(THIRD_PARTY_INCLUDE_DIRECTORIES "${CMAKE_CURRENT_SOURCE_DIR}/third_party/glad/include"
 									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/glfw/include"
 									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/stb"
-									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/assimp-5.0.1/include"
+									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/assimp/include"
 									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/OpenMesh-8.1/src"
 									"${CMAKE_CURRENT_SOURCE_DIR}/third_party/glm")
 set(T3GPU_INCLUDE_DIRECTORY "${CMAKE_SOURCE_DIR}/source/")
