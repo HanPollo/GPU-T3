@@ -15,7 +15,7 @@ endfunction()
 add_subdirectory_with_folder("third_party" glad)
 add_subdirectory_with_folder("third_party" glfw)
 add_subdirectory_with_folder("third_party" stb)
-add_subdirectory_with_folder("third_party" assimp)
+add_subdirectory_with_folder("third_party" assimp-5.0.1)
 
 
 
